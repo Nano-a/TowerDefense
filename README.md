@@ -1,4 +1,3 @@
-```markdown
 # Tower Defense 🏰
 
 Bienvenue dans **Tower Defense**, un projet captivant développé en Java par **Abderrahman Ajinou** et **Gebrayel Maroun**. Ce jeu allie stratégie, logique et créativité pour offrir une expérience immersive où vous devez protéger votre base contre des vagues d’ennemis en construisant des tours tactiques. Conçu avec rigueur et passion, ce projet illustre notre engagement à produire un code robuste, une interface utilisateur soignée, et des compétences en développement logiciel prêtes à impressionner. 🚀
@@ -56,7 +55,6 @@ Suivez ces étapes pour lancer **Tower Defense** et plonger dans l’action :
 
    ```bash
    git clone https://github.com/Nano-a/TowerDefense.git
-   ```
 
 2. **Accéder au dossier** :
 
