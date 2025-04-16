@@ -132,8 +132,8 @@ Suivez ces étapes pour lancer **Tower Defense** et plonger dans l’action :
 
 ## 👨‍💻 Auteurs
 
-- **Abderrahman Ajinou**
-- **Gebrayel Maroun**
+- **[Abderrahman Ajinou](https://github.com/Nano-a)**
+- **[Gebrayel Maroun](https://github.com/Maroun2424)**
 
 Nous sommes fiers de ce projet et enthousiastes à l’idée de partager notre travail avec la communauté. Merci de tester **Tower Defense** ! Pour toute question ou suggestion, contactez-nous. 🙌
 
