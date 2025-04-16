@@ -140,4 +140,3 @@ Nous sommes fiers de ce projet et enthousiastes à l’idée de partager notre t
 ---
 
 *Développé avec passion et détermination pour repousser les limites du code et du fun !* 🎮
-```
