@@ -114,7 +114,7 @@ Suivez ces étapes pour lancer **Tower Defense** et plonger dans l’action :
 - **Interface intuitive** : Boutons personnalisés, infobulles, et journal de logs pour une expérience fluide.
 - **Performance optimisée** : Multithreading pour des mises à jour fluides.
 
-## 💻 Pourquoi ce projet séduit les recruteurs ?
+## 💻 Compétences acquis durant le projet : 
 
 **Tower Defense** est bien plus qu’un jeu ; c’est une démonstration de nos compétences techniques et de notre esprit d’équipe :
 
@@ -123,8 +123,6 @@ Suivez ces étapes pour lancer **Tower Defense** et plonger dans l’action :
 - **Résolution de problèmes** : Implémentation d’un algorithme A* pour les chemins ennemis.
 - **Attention aux détails** : Interface soignée et logs pour un débogage efficace.
 - **Motivation** : Ce projet reflète notre passion pour le développement et notre ambition de produire un travail de qualité.
-
-Nous sommes impatients de mettre ces compétences au service de projets innovants et de continuer à évoluer comme développeurs ! 🌟
 
 ## 📝 Remarques importantes
 
