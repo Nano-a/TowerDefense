@@ -59,7 +59,7 @@ public class Chemin {
 
                     int cost = (int) tmpG + estimateDistanceToEnd(tmp, destination);
                     cameFrom.put(tmp, curr);
-                    gScore.put(tmp, new Integer((int) tmpG));
+                    gScore.put(tmp, Integer.valueOf((int) tmpG));
                     fScore.put(tmp, cost);
                     open.add(tmp);
 

@@ -81,23 +81,25 @@ Suivez ces étapes pour lancer **Tower Defense** et plonger dans l’action :
       - Sur **Windows** :
 
         ```bash
-        javac -cp ".;res/libs/*" -d bin src/*/*.java
+        mkdir -p bin
+        javac -cp ".;res/libs/*" -d bin $(find src -name "*.java")
         ```
       - Sur **Linux/macOS** :
 
         ```bash
-        javac -cp ".:res/libs/*" -d bin src/*/*.java
+        mkdir -p bin
+        javac -cp ".:res/libs/*" -d bin $(find src -name "*.java")
         ```
    2. Exécuter le jeu :
       - Sur **Windows** :
 
         ```bash
-        java -cp "bin;res/libs/*" utilisateurinterface.CadreJeu
+        java -cp "bin;res;res/libs/*" utilisateurinterface.CadreJeu
         ```
       - Sur **Linux/macOS** :
 
         ```bash
-        java -cp "bin:res/libs/*" utilisateurinterface.CadreJeu
+        java -cp "bin:res:res/libs/*" utilisateurinterface.CadreJeu
         ```
 
 ### Remarques
